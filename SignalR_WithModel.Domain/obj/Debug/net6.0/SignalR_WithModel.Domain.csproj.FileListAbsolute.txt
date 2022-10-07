@@ -1,0 +1,12 @@
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\bin\Debug\net6.0\SignalR_WithModel.Domain.deps.json
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\bin\Debug\net6.0\SignalR_WithModel.Domain.dll
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\bin\Debug\net6.0\SignalR_WithModel.Domain.pdb
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\obj\Debug\net6.0\SignalR_WithModel.Domain.csproj.AssemblyReference.cache
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\obj\Debug\net6.0\SignalR_WithModel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\obj\Debug\net6.0\SignalR_WithModel.Domain.AssemblyInfoInputs.cache
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\obj\Debug\net6.0\SignalR_WithModel.Domain.AssemblyInfo.cs
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\obj\Debug\net6.0\SignalR_WithModel.Domain.csproj.CoreCompileInputs.cache
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\obj\Debug\net6.0\SignalR_WithModel.Domain.dll
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\obj\Debug\net6.0\refint\SignalR_WithModel.Domain.dll
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\obj\Debug\net6.0\SignalR_WithModel.Domain.pdb
+E:\projects\SignalR_WithModel\SignalR_WithModel.Domain\obj\Debug\net6.0\ref\SignalR_WithModel.Domain.dll

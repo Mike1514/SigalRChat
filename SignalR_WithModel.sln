@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR_WithModel", "SignalR_WithModel\SignalR_WithModel.csproj", "{693850F1-159D-4CF6-ABD5-A202677BE5BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalR_Client", "SignalR_Client\SignalR_Client.csproj", "{41DCFA4A-6CE4-4141-A864-4BCCEA0FD1A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR_WithModel.Domain", "SignalR_WithModel.Domain\SignalR_WithModel.Domain.csproj", "{25601654-3F07-403D-885D-4E84B172A2AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693850F1-159D-4CF6-ABD5-A202677BE5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693850F1-159D-4CF6-ABD5-A202677BE5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693850F1-159D-4CF6-ABD5-A202677BE5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693850F1-159D-4CF6-ABD5-A202677BE5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41DCFA4A-6CE4-4141-A864-4BCCEA0FD1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DCFA4A-6CE4-4141-A864-4BCCEA0FD1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DCFA4A-6CE4-4141-A864-4BCCEA0FD1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DCFA4A-6CE4-4141-A864-4BCCEA0FD1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25601654-3F07-403D-885D-4E84B172A2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25601654-3F07-403D-885D-4E84B172A2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25601654-3F07-403D-885D-4E84B172A2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25601654-3F07-403D-885D-4E84B172A2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {488C6C8E-14D6-4FCE-850A-4CF9F7A9AAE2}
+	EndGlobalSection
+EndGlobal
