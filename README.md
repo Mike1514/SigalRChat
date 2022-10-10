@@ -1,5 +1,5 @@
 # SigalRChat
-Web server and console client for delivering inputed messages
+Web server and console client for delivering inputed messages "/t"
 HOW TO USE
 1 start the SignalR_WithModel web server 
 2 run two or more signaR_Client console applications
